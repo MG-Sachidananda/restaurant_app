@@ -16,6 +16,7 @@ const Footer = () => (
         <p className="p__opensans">35, Basavanapura Rd, RMS Colony, Bhattarahalli, Hosabasavanapura, Krishnarajapuram, Bengaluru, Karnataka 560049</p>
         <p className="p__opensans">cafeunnati1005@gmail.com</p>
         <p className="p__opensans">+91 9380072047</p>
+        <p className="p__opensans">+91 9380703201</p>
       </div>
 
       <div className="app__footer-links_logo">

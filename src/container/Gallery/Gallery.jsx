@@ -28,9 +28,9 @@ const Gallery = () => {
       </div>
       <div className="app__gallery-images">
         <div className="app__gallery-images_container" ref={scrollRef}>
-          {[images.food1, images.food2, images.food3, images.food4, images.food5, images.food6, images.food7, images.food8].map((image, index) => (
+          {[images.food10, images.food9, images.food8, images.food7, images.food6, images.food5, images.food4, images.food3, images.food2 , images.food1].map((image, index) => (
             <div className="app__gallery-images_card flex__center" key={`gallery_image-${index + 1}`}>
-              <img src={image} alt="gallery_image" style={{objectFit:'cover'}}/>
+              <a href='https://www.instagram.com/_cafe_unnati/' target='_blank'><img src={image} alt="gallery_image" style={{objectFit:'cover'}} /></a>
               <BsInstagram className="gallery__image-icon" />
             </div>
           ))}

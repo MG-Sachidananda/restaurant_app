@@ -23,14 +23,16 @@ import gericht from '../assets/gericht.png';
 import unnati from '../assets/unnati.jpeg'; 
 import cafeImg from '../assets/cafeImg.jpeg'; 
 import coffee from '../assets/coffee.jpg'; 
-import food1 from '../assets/food1.jpeg'; 
-import food2 from '../assets/food2.jpeg'; 
-import food3 from '../assets/food3.jpeg'; 
-import food4 from '../assets/food4.jpeg'; 
-import food5 from '../assets/food5.jpeg'; 
-import food6 from '../assets/food6.jpeg'; 
-import food7 from '../assets/food7.jpeg'; 
-import food8 from '../assets/food8.jpeg'; 
+import food2 from '../assets/rest2.jpeg'; 
+import food1 from '../assets/rest1.jpeg'; 
+import food3 from '../assets/rest3.jpeg'; 
+import food4 from '../assets/rest4.jpeg'; 
+import food5 from '../assets/rest5.jpeg'; 
+import food6 from '../assets/rest6.jpeg'; 
+import food7 from '../assets/rest7.jpeg'; 
+import food8 from '../assets/rest8.jpeg'; 
+import food9 from '../assets/rest9.jpeg'; 
+import food10 from '../assets/rest10.jpeg'; 
 
 export default {
   food1,
@@ -41,6 +43,8 @@ export default {
   food6,
   food7,
   food8,
+  food9,
+  food10,
   coffee,
   cafeImg,
   unnati,
